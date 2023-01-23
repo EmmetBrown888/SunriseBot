@@ -1,0 +1,5 @@
+aiogram
+aiosqlite==0.17.0
+databases==0.6.2
+environs==9.5.0
+loguru==0.6.0
